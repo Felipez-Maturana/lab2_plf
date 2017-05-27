@@ -16,7 +16,7 @@ RIGHT RIGHT\$
 STRING [\"].{1,128}[\"]
 ENTERO 0|[\+\-]?[1-9][0-9]*
 ARITMETICO \+|\-|\*|\/
-RELACIONAL \>|(>=)|\<|(<=)|\=|(<>)
+RELACIONAL \>|(>=)|\<|(<=)|(<>)
 IDEN_INT [a-zA-Z][a-zA-Z0-9]{0,11}
 IDEN_CAR [a-zA-Z][a-zA-Z0-9]{0,11}\$
 
